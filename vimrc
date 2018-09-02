@@ -29,3 +29,6 @@ inoremap <C-a> <C-o>0
 " normal mode Ctrl-a and Ctrl-e
 nnoremap <C-e> $
 nnoremap <C-a> 0
+
+" comments
+set formatoptions+=r
