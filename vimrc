@@ -4,6 +4,9 @@ filetype on
 " make needs tabs
 autocmd FileType make set noexpandtab shiftwidth=4 softtabstop=0
 
+" have go source conform with standard style
+autocmd FileType go set noexpandtab shiftwidth=4 softtabstop=0
+
 " line numbers
 set number
 
